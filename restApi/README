@@ -1,0 +1,11 @@
+### Rest API with GO
+#### Get all mods
+![](getMods.png)
+#### Get Mod by Id
+![](getModsById.png)
+#### Add new Mod
+![](addMOds.png)
+#### Modify existing Mod
+![](modifyMod.png)
+#### Remove Mod
+![](removeMod.png)
